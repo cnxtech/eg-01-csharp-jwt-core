@@ -44,7 +44,7 @@ Community Edition solution.
 
 ## Configure the example
 
-Configure the example either via the `common/App.config` file.
+Configure the example via the `common/App.config` file.
 
 **Recommendation:** add `common/App.config` to your `.gitignore` file so your 
 private information will not be added to your repository.
