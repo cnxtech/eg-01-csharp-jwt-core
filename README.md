@@ -87,7 +87,7 @@ also work (unchanged) with .NET Framework.
 
 A .NET Framework version of this example is also 
 available. It uses the same common set of source files,
-but is congigured as a .NET Framework solution for
+but is configured as a .NET Framework solution for
 Visual Studio 2017.
 
 ## Support, Contributions, License
