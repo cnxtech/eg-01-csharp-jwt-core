@@ -35,7 +35,7 @@ Community Edition solution.
 ### Short installation instructions
 * Download or clone this repository.
 * The repository includes a Visual Studio 2017 solution file and 
-  a NuGet package referencesd in the project file.
+  NuGet package references in the project file.
 * Configure the project by editing the existing project file
   `common/App.config`
   
