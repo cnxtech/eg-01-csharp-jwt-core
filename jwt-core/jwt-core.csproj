@@ -30,7 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="DocuSign.eSign.dll" Version="3.0.0" />
+    <PackageReference Include="DocuSign.eSign.dll" Version="3.0.1" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
   </ItemGroup>
 
