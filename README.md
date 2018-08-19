@@ -85,7 +85,8 @@ This repository is configured for use with .NET Core.
 The source files, stored in the `/common` directory,
 also work (unchanged) with .NET Framework.
 
-A .NET Framework version of this example is also 
+A [.NET Framework](https://github.com/docusign/eg-01-csharp-jwt-framework)
+version of this example is also 
 available. It uses the same common set of source files,
 but is configured as a .NET Framework solution for
 Visual Studio 2017.
@@ -94,7 +95,13 @@ Visual Studio 2017.
 
 Submit support questions to [StackOverflow](https://stackoverflow.com). Use tag `docusignapi`.
 
-Contributions via Pull Requests are appreciated.
+Contributions via Pull Requests are appreciated. Pull requests for the common
+files must be contributed to the 
+[eg-01-csharp-jwt-common](https://github.com/docusign/eg-01-csharp-jwt-common)
+repository.
+See the [Contributing.md](https://github.com/docusign/eg-01-csharp-jwt-common/blob/master/docs/Contributing.md/)
+file for information on contributing to this project.
+
 All contributions must use the MIT License.
 
 This repository uses the MIT license, see the
