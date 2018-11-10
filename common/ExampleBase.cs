@@ -40,8 +40,6 @@ namespace eg_01_csharp_jwt
 
         private void UpdateToken()
         {
-            ApiClient.SetBasePath(null);
-
             OAuth.OAuthToken authToken = ApiClient.RequestJWTUserToken(DSConfig.ClientID,
                             DSConfig.ImpersonatedUserGuid,
                             DSConfig.AuthServer,
