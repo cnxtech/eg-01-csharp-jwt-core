@@ -59,6 +59,7 @@ namespace eg_01_csharp_jwt
 
         private Account GetAccountInfo(OAuth.OAuthToken authToken)
         {
+            ApiClient.SetOAuthBasePath(DSConfig.AuthServer);
             OAuth.UserInfo userInfo = ApiClient.GetUserInfo(authToken.access_token);
             Account acct = null;
 
